@@ -105,11 +105,7 @@ app/src/main/java/com/smartpantry/manager/
     └── Recipe.java
 ```
 
-## GitHub
-
-Develop under Git version control with descriptive commits.  
-Public repository recommended (or add marker as collaborator if private).
 
 ## Author
 
-Student – Mobile App Development 700
+Chairmaine Sibiya (402203071)
